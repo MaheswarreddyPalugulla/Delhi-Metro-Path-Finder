@@ -395,13 +395,13 @@ int main()
 
     system("echo  \"\e[32m\""); //green
     cout<<"\t\t";
-    cout<<"Enter source station in capital case: ";
+    cout<<"Enter source station: ";
     getline(cin,sourcestn);
     cout<<endl;
 
     system("echo  \"\e[33m\""); //yellow
     cout<<"\t\t";
-    cout<<"Enter destination station in capital case: ";
+    cout<<"Enter destination station: ";
     getline(cin,deststn);
     
 

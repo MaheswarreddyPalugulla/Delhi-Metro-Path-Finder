@@ -95,13 +95,13 @@ node [shape=rect,dpi=600] margin=0.75
 "Hauz Khas" -- "Malviya Nagar" [label="1.7",color=yellow ,penwidth="2"];
 "Malviya Nagar" -- "Saket" [label="0.9",color=yellow ,penwidth="2"];
 "Saket" -- "Qutab Minar" [label="1.7",color=yellow ,penwidth="2"];
-"Qutab Minar" -- "Chhattarpur" [label="1.3",color=yellow ,penwidth="8"];
-"Chhattarpur" -- "Sultanpur" [label="1.6",color=yellow ,penwidth="8"];
-"Sultanpur" -- "Ghitorni" [label="1.3",color=yellow ,penwidth="8"];
-"Ghitorni" -- "Arjan Garh" [label="2.7",color=yellow ,penwidth="8"];
-"Arjan Garh" -- "Guru Dronacharya" [label="2.3",color=yellow ,penwidth="8"];
-"Guru Dronacharya" -- "Sikandarpur" [label="1.0",color=yellow ,penwidth="8"];
-"Sikandarpur" -- "MG Road" [label="1.2",color=yellow ,penwidth="8"];
+"Qutab Minar" -- "Chhattarpur" [label="1.3",color=yellow ,penwidth="2"];
+"Chhattarpur" -- "Sultanpur" [label="1.6",color=yellow ,penwidth="2"];
+"Sultanpur" -- "Ghitorni" [label="1.3",color=yellow ,penwidth="2"];
+"Ghitorni" -- "Arjan Garh" [label="2.7",color=yellow ,penwidth="2"];
+"Arjan Garh" -- "Guru Dronacharya" [label="2.3",color=yellow ,penwidth="2"];
+"Guru Dronacharya" -- "Sikandarpur" [label="1.0",color=yellow ,penwidth="2"];
+"Sikandarpur" -- "MG Road" [label="1.2",color=yellow ,penwidth="2"];
 "MG Road" -- "IFFCO Chowk" [label="1.1",color=yellow ,penwidth="2"];
 "IFFCO Chowk" -- "Huda City Centre" [label="1.5",color=yellow ,penwidth="2"];
 }

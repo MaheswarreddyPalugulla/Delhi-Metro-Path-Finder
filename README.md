@@ -1,4 +1,4 @@
-# 🚅 MetroWay - DelhiMetroSystem-CLI-based-project
+# 🚅 MetroWay - Delhi Metro Path Finder
 
  ![x](./pics/Logo.png)
 
@@ -11,7 +11,7 @@
  - Graphviz (for Creating Graph image or pdf using .dot file)
  
  ## 🔰 About
- - MetroWay is an application meant for users, It helps you find & visualize the Shortest Path between Delhi Metro Stations, it uses Graph Data Structure &     Dijkstra's Algorithm.
+ - The Aim of this project is to find & visualize the Shortest Path between Delhi Metro Stations, it uses Graph Data Structure & Dijkstra's Algorithm.
  
  ## 🌟 Features
  - Find and Show the Shortest Distance between any 2 stations
@@ -31,8 +31,10 @@
  
  - Stations shown as Graph using Graphviz
  ![c](./path.png)
- 
+ ``
 
+
+ 
  
  
  
